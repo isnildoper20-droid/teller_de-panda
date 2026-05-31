@@ -2,7 +2,7 @@
 
 # 🐼 Taller Práctico de Pandas y Operaciones Matemáticas
 
-[![Open In Colab]("https://raw.githubusercontent.com/isnildoper20-droid/teller_de-panda/main/Data/productos.csv")
+[![Open In Colab](https://raw.githubusercontent.com/isnildoper20-droid/teller_de-panda/main/productos.csv")
 
 <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-2.2.2-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -133,7 +133,7 @@ La forma más rápida es hacer clic en el badge de arriba **Open in Colab**. El 
 También puedes clonarlo localmente:
 
 ```bash
-git clone "https://raw.githubusercontent.com/isnildoper20-droid/teller_de-panda/main/Data/productos.csv"
+git clone "https://raw.githubusercontent.com/isnildoper20-droid/teller_de-panda/main/productos.csv"
 pip install pandas numpy openpyxl jupyter
 jupyter notebook taller_pandas.ipynb
 ```
