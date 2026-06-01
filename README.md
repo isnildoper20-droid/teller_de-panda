@@ -133,7 +133,7 @@ La forma más rápida es hacer clic en el badge de arriba **Open in Colab**. El 
 También puedes clonarlo localmente:
 
 ```bash
-git clone "https://raw.githubusercontent.com/isnildoper20-droid/teller_de-panda/main/productos.csv"
+git clone "https://raw.githubusercontent.com/jeffer301/INTELIGENCIA-ARTIFICIAL--JEFFERSON-VALENCIA/refs/heads/main/taller-panda/productos.csv"
 pip install pandas numpy openpyxl jupyter
 jupyter notebook taller_pandas.ipynb
 ```
