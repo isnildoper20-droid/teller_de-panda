@@ -2,7 +2,7 @@
 
 # 🐼 Taller Práctico de Pandas y Operaciones Matemáticas
 
-[![Open In Colab](https://raw.githubusercontent.com/isnildoper20-droid/teller_de-panda/main/productos.csv")
+[![Open In Colab]('https://raw.githubusercontent.com/jeffer301/INTELIGENCIA-ARTIFICIAL--JEFFERSON-VALENCIA/refs/heads/main/taller-panda/productos.csv')
 
 <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-2.2.2-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -61,7 +61,7 @@ taller-panda/
 El dataset contiene **60 productos** (tecnología y oficina) y se carga directamente desde GitHub:
 
 ```python
-url = 'https://raw.githubusercontent.com/isnildoper20-droid/teller_de-panda/main/Data/productos.csv'
+url = ''https://raw.githubusercontent.com/jeffer301/INTELIGENCIA-ARTIFICIAL--JEFFERSON-VALENCIA/refs/heads/main/taller-panda/productos.csv'
 df = pd.read_csv(url, encoding='utf-8-sig')
 ```
 
